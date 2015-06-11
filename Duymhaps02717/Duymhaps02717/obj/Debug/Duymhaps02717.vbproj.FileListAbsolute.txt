@@ -1,0 +1,27 @@
+C:\Users\huy\AppData\Local\Temporary Projects\Duymhaps02717\bin\Debug\Duymhaps02717.exe.config
+E:\Điện toán đám mây\duymha\duymhaps02717\Duymhaps02717\Duymhaps02717\bin\Debug\Duymhaps02717.exe.config
+E:\Điện toán đám mây\duymha\duymhaps02717\Duymhaps02717\Duymhaps02717\bin\Debug\Duymhaps02717.exe
+E:\Điện toán đám mây\duymha\duymhaps02717\Duymhaps02717\Duymhaps02717\bin\Debug\Duymhaps02717.pdb
+E:\Điện toán đám mây\duymha\duymhaps02717\Duymhaps02717\Duymhaps02717\bin\Debug\Duymhaps02717.xml
+E:\Điện toán đám mây\duymha\duymhaps02717\Duymhaps02717\Duymhaps02717\obj\Debug\Duymhaps02717.frmLogin.resources
+E:\Điện toán đám mây\duymha\duymhaps02717\Duymhaps02717\Duymhaps02717\obj\Debug\Duymhaps02717.Resources.resources
+E:\Điện toán đám mây\duymha\duymhaps02717\Duymhaps02717\Duymhaps02717\obj\Debug\Duymhaps02717.vbproj.GenerateResource.Cache
+E:\Điện toán đám mây\duymha\duymhaps02717\Duymhaps02717\Duymhaps02717\obj\Debug\Duymhaps02717.exe
+E:\Điện toán đám mây\duymha\duymhaps02717\Duymhaps02717\Duymhaps02717\obj\Debug\Duymhaps02717.xml
+E:\Điện toán đám mây\duymha\duymhaps02717\Duymhaps02717\Duymhaps02717\obj\Debug\Duymhaps02717.pdb
+E:\Điện toán đám mây\duymha\duymhaps02717\Duymhaps02717\Duymhaps02717\obj\Debug\Duymhaps02717.frmMain.resources
+C:\Users\MinhQuanComputer\Downloads\duymhaps02717\duymhaps02717\Duymhaps02717\Duymhaps02717\bin\Debug\Duymhaps02717.exe.config
+C:\Users\MinhQuanComputer\Downloads\duymhaps02717\duymhaps02717\Duymhaps02717\Duymhaps02717\obj\Debug\Duymhaps02717.exe
+C:\Users\MinhQuanComputer\Downloads\duymhaps02717\duymhaps02717\Duymhaps02717\Duymhaps02717\obj\Debug\Duymhaps02717.xml
+C:\Users\MinhQuanComputer\Downloads\duymhaps02717\duymhaps02717\Duymhaps02717\Duymhaps02717\obj\Debug\Duymhaps02717.pdb
+C:\Users\MinhQuanComputer\Downloads\duymhaps02717\duymhaps02717\Duymhaps02717\Duymhaps02717\bin\Debug\Duymhaps02717.exe
+C:\Users\MinhQuanComputer\Downloads\duymhaps02717\duymhaps02717\Duymhaps02717\Duymhaps02717\bin\Debug\Duymhaps02717.pdb
+C:\Users\MinhQuanComputer\Downloads\duymhaps02717\duymhaps02717\Duymhaps02717\Duymhaps02717\bin\Debug\Duymhaps02717.xml
+C:\Users\MinhQuanComputer\Downloads\duymhaps02717\duymhaps02717\Duymhaps02717\Duymhaps02717\obj\Debug\Duymhaps02717.frmLogin.resources
+C:\Users\MinhQuanComputer\Downloads\duymhaps02717\duymhaps02717\Duymhaps02717\Duymhaps02717\obj\Debug\Duymhaps02717.frmMain.resources
+C:\Users\MinhQuanComputer\Downloads\duymhaps02717\duymhaps02717\Duymhaps02717\Duymhaps02717\obj\Debug\Duymhaps02717.Resources.resources
+C:\Users\MinhQuanComputer\Downloads\duymhaps02717\duymhaps02717\Duymhaps02717\Duymhaps02717\obj\Debug\Duymhaps02717.vbproj.GenerateResource.Cache
+C:\Users\MinhQuanComputer\Downloads\duymhaps02717\duymhaps02717\Duymhaps02717\Duymhaps02717\obj\Debug\Duymhaps02717.frmQuanLyThanhVien.resources
+C:\Users\MinhQuanComputer\Downloads\duymhaps02717\duymhaps02717\Duymhaps02717\Duymhaps02717\obj\Debug\Duymhaps02717.frmQuanLyKhachHang.resources
+C:\Users\MinhQuanComputer\Downloads\duymhaps02717\duymhaps02717\Duymhaps02717\Duymhaps02717\obj\Debug\Duymhaps02717.frmMaLoaiSP.resources
+C:\Users\MinhQuanComputer\Downloads\duymhaps02717\duymhaps02717\Duymhaps02717\Duymhaps02717\obj\Debug\Duymhaps02717.frmQuanLySanPham.resources
