@@ -25,3 +25,7 @@ C:\Users\MinhQuanComputer\Downloads\duymhaps02717\duymhaps02717\Duymhaps02717\Du
 C:\Users\MinhQuanComputer\Downloads\duymhaps02717\duymhaps02717\Duymhaps02717\Duymhaps02717\obj\Debug\Duymhaps02717.frmQuanLyKhachHang.resources
 C:\Users\MinhQuanComputer\Downloads\duymhaps02717\duymhaps02717\Duymhaps02717\Duymhaps02717\obj\Debug\Duymhaps02717.frmMaLoaiSP.resources
 C:\Users\MinhQuanComputer\Downloads\duymhaps02717\duymhaps02717\Duymhaps02717\Duymhaps02717\obj\Debug\Duymhaps02717.frmQuanLySanPham.resources
+C:\Duymhaps02717_Assignment_INF205\Duymhaps02717\Duymhaps02717\bin\Debug\Duymhaps02717.exe.config
+C:\Duymhaps02717_Assignment_INF205\Duymhaps02717\Duymhaps02717\obj\Debug\Duymhaps02717.exe
+C:\Duymhaps02717_Assignment_INF205\Duymhaps02717\Duymhaps02717\obj\Debug\Duymhaps02717.xml
+C:\Duymhaps02717_Assignment_INF205\Duymhaps02717\Duymhaps02717\obj\Debug\Duymhaps02717.pdb
